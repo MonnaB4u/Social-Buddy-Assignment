@@ -8,7 +8,7 @@ import {
 } from "react-router-dom";
 import Home from './Components/Home/Home';
 import NotFound from './Components/NotFound/NotFound';
-import PostDetails from './Components/PostDetails/PostDetails';
+import PostDetails from './Components/AllDataServer/AllDataServer';
 import Post from './Components/Post/Post';
 
 function App() {

@@ -2,7 +2,7 @@ import React, { useEffect, useState } from 'react';
 import { useParams } from 'react-router-dom';
 import Comment from '../Comment/Comment';
 import { Grid } from '@material-ui/core';
-import './postDetails.css'
+import './AllDataServer.css'
 
 const PostDetails = () => {
     
